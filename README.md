@@ -4,10 +4,10 @@ Instraktor is a Faculty Management System (FMS) designed to streamline the manag
 
 Trainers can edit their profiles, including their trainer ID, and access a faculty page for editing trainer details. Additionally, the app features a classes page for assigning new classes to trainers. Instraktor utilizes React, ChakraUI, and Axios for the frontend and an Express backend with a PostgreSQL database. 
 
-<img width="960" alt="instraktor4" src="https://github.com/Dunking3022/Instraktor-v0.1.4/assets/66022524/dc192308-ed9e-4637-88c7-bc5a480cc98e">
-<img width="960" alt="instraktor3" src="https://github.com/Dunking3022/Instraktor-v0.1.4/assets/66022524/1fca7ac7-643f-4326-a8f6-78f294894a53">
-<img width="960" alt="instraktor2" src="https://github.com/Dunking3022/Instraktor-v0.1.4/assets/66022524/b1146be3-d87b-4f88-96b1-ccd6c73a5f94">
 <img width="960" alt="instraktor" src="https://github.com/Dunking3022/Instraktor-v0.1.4/assets/66022524/523df2f6-ee00-4524-bd71-ab513d21c38d">
+<img width="960" alt="instraktor2" src="https://github.com/Dunking3022/Instraktor-v0.1.4/assets/66022524/b1146be3-d87b-4f88-96b1-ccd6c73a5f94">
+<img width="960" alt="instraktor3" src="https://github.com/Dunking3022/Instraktor-v0.1.4/assets/66022524/1fca7ac7-643f-4326-a8f6-78f294894a53">
+<img width="960" alt="instraktor4" src="https://github.com/Dunking3022/Instraktor-v0.1.4/assets/66022524/dc192308-ed9e-4637-88c7-bc5a480cc98e">
 
 
 
