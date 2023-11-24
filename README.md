@@ -1,6 +1,8 @@
 # Instraktor
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Instraktor is a Faculty Management System (FMS) designed to streamline the management of instructors and classes. It offers user authentication for trainers, providing a personalized dashboard displaying assigned groups and class timings. 
+
+Trainers can edit their profiles, including their trainer ID, and access a faculty page for editing trainer details. Additionally, the app features a classes page for assigning new classes to trainers. Instraktor utilizes React, ChakraUI, and Axios for the frontend and an Express backend with a PostgreSQL database. 
 
 ## Available Scripts
 
