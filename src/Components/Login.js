@@ -26,6 +26,8 @@ import { Link } from "react-router-dom";
 import { MoonIcon, SunIcon } from "@chakra-ui/icons";
 import axios from "axios";
 import {useNavigate} from "react-router-dom"
+import AddNewUserButton from "./AddNewUserButton";
+import RegisterUser from "./RegisterUser";
 
 const Login = () => {
   const navigate = useNavigate(); 
@@ -141,7 +143,8 @@ const Login = () => {
               </Flex>
               <FormControl display="flex" alignItems="center" justifyContent={"space-between"}gap={10}>
                 <Text color="fg.muted">
-                    <Link to={"/register"}>Sign up</Link>
+                  <RegisterUser></RegisterUser>
+                    {/* <Link to={"/register"}>Sign up</Link> */}
                 </Text>
                 <Tooltip label="Enable Dark Mode">
                     <span>
